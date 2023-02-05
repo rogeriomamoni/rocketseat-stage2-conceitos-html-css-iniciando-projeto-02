@@ -26,7 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <p align="start">
   
-  Desafio avançado proposto para recriar uma aplicação a partir de um layout do Figma, para treinar o que foi ensinado no Stage 02, no módulo conhecendo novos conceitos de HTML e CSS do curso Explorer da Rocketseat.
+Projeto nº 02 proposto a partir de uma aplicação de um layout do Figma, para treinar o que foi ensinado no Stage 02, no módulo Conhecendo novos conceitos de HTML e CSS do curso Explorer da Rocketseat.
+  
 </p>
 
 ## 🎨 Layout
